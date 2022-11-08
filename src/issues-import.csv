@@ -1,0 +1,231 @@
+title,body,assignee,labels
+[A 1.1] Gestion du patrimoine informatique,"### :star: Compétences
+- [ ] Recensement et identification des ressources numériques
+- [ ] Exploitation des référentiels, normes et standards adoptés par le prestataire informatique
+- [ ] Mise en place et vérification des niveaux d’habilitation associés à un service
+- [ ] Vérification des conditions de la continuité d’un service informatique
+- [ ] Gestion des sauvegardes
+- [ ] Vérification du respect des règles d’utilisation des ressources numériques
+### :rocket: Indicateurs de performance
+- Le recensement du patrimoine informatique est exhaustif et réalisé au moyen d’un outil de gestion des actifs informatiques.
+- Les référentiels, normes et standards sont mobilisés de façon pertinente.
+- Les droits mis en place correspondent aux habilitations des acteurs.
+- Les conditions de continuité et de reprise d’un service sont vérifiées et les manquements sont signalés.
+- Les sauvegardes sont réalisées dans les conditions prévues conformément au plan de sauvegarde.
+- Les restaurations sont testées et opérationnelles.
+- Les écarts par rapport aux règles d’utilisation des ressources numériques sont détectés et signalés.",jcheron,"Activité,Bloc1,Compétences"
+[A 1.2] Réponse aux incidents et aux demandes d’assistance et d’évolution,"### :star: Compétences
+- [ ] Collecte, suivi et orientation des demandes 
+- [ ] Traitement des demandes concernant les applicatifs, services réseau et système
+- [ ] Traitement des demandes concernant les applications
+### :rocket: Indicateurs de performance
+- En utilisant les outils adaptés, les demandes d’assistance ont été prises en compte, correctement diagnostiquées et leur traitement correspond aux attentes.
+- La réponse à une demande d’assistance est conforme à la procédure et adaptée à l’utilisateur.
+- La méthode de diagnostic de résolution d’un incident est adéquate et efficiente.
+- Une solution à l’incident est trouvée et mise en œuvre.
+- Le cycle de résolution des demandes respecte les normes et standards du prestataire informatique.
+- L’utilisation d’un logiciel de gestion de parc et d’incidents est maîtrisée.
+- Le compte rendu d’intervention est clair et explicite.
+- La communication écrite et orale est adaptée à l’interlocuteur.",jcheron,"Activité,Bloc1,Compétences"
+[A 1.3] Développement de la présence en ligne de l’organisation,"### :star: Compétences
+- [ ] Participation à la valorisation de l’image de l’organisation sur les médias numériques en 
+tenant compte du cadre juridique et des enjeux économiques
+- [ ] Référencement des services en ligne de l’organisation et mesure de leur visibilité
+- [ ] Participation à l’évolution d’un site Web exploitant les données de l’organisation
+### :rocket: Indicateurs de performance
+- L’image de l’organisation est conforme aux attentes et valorisée.
+- Les enjeux économiques liés à l’image de l’organisation sont identifiés et les obligations juridiques sont respectées.
+- Les mentions légales sont accessibles et conformes à la législation.
+- La visibilité des services en ligne de l’organisation est satisfaisante.
+- Le site Web a évolué conformément au besoin exprimé.",jcheron,"Activité,Bloc1,Compétences"
+[A 1.4] Travail en mode projet,"### :star: Compétences
+- [ ] Analyse des objectifs et des modalités d’organisation d’un projet
+- [ ] Planification des activités
+- [ ] Évaluation des indicateurs de suivi d’un projet et analyse des écarts
+### :rocket: Indicateurs de performance
+- Les objectifs et les modalités d’organisation du projet sont explicités.
+- L’analyse des besoins et de l’existant est pertinente.
+- Les activités personnelles sont planifiées selon une méthodologie donnée et les ressources humaines, matérielles et logicielles nécessaires sont mobilisées de manière efficace et pertinente.
+- Le découpage en tâches est réaliste.
+- Les livrables sont conformes.
+- Le projet est documenté.
+- Un compte rendu clair et concis est réalisé et les écarts sont justifiés.
+- La communication écrite et orale est adaptée à l’interlocuteur.",jcheron,"Activité,Bloc1,Compétences"
+[A 1.5] Mise à disposition des utilisateurs d’un service informatique,"### :star: Compétences
+- [ ] Test d’intégration et d’acceptation d’un service
+- [ ] Déploiement d’un service
+- [ ] Accompagnement des utilisateurs dans la mise en place d’un service
+### :rocket: Indicateurs de performance
+- Des tests pertinents d’intégration et d’acceptation sont rédigés et effectués.
+- Les outils de test sont utilisés de manière appropriée.
+- Un rapport de test du service est produit.
+- Un support d’information est disponible.
+- Les modalités d’accompagnement sont définies.
+- Le service déployé est opérationnel et donne satisfaction à l’utilisateur.",jcheron,"Activité,Bloc1,Compétences"
+"[A 1.6] Organisation de son développement professionnel","### :star: Compétences
+- [ ] Mise en place de son environnement d’apprentissage personnel
+- [ ] Mise en œuvre d’outils et de stratégie veille informationnelle
+- [ ] Gestion de son identité professionnelle
+- [ ] Développement de son projet professionnel
+### :rocket: Indicateurs de performance
+- Les besoins de formation sont identifiés pour assurer le support ou mettre à disposition un service.
+- L’environnement d’apprentissage personnel est délimité et expliqué.
+- La veille est régulière et vise à :
+  - repérer les techniques et technologies émergentes du secteur informatique ;
+  - d’utiliser de manière approfondie des moyens de recherche d'information ;
+  - de renforcer de ses compétences.
+- L’identité professionnelle est pertinente et visible sur un réseau social professionnel.",jcheron,"Activité,Bloc1,Compétences"
+[A 2.1] conception et développement d’applications,"- Activités et compétences  liées à la conception, au développement et et au déploiement ainsi qu’à la maintenance des composants logiciels d’une solution applicative.
+- Utilisation de méthodes permettant d’accélérer les phases de développement d’applications informatiques grâce à leur approche modulaire et à la réutilisation de composants logiciels.
+- Mise en œuvre de méthodes et outils de conception, de modélisation, d’administration et de maintenance des bases de données, structurées ou non.
+",jcheron,"Activité,Bloc2,SLAM"
+"[C 2.1.(1.2.3)] Analyse, conception","### :star: Compétences
+- [ ] Analyse d’un besoin exprimé et de son contexte juridique
+- [ ] Participation à la conception de l’architecture d’une solution applicative
+- [ ] Modélisation d’une solution applicative
+### :rocket: Indicateurs de performance
+- La proposition de la solution applicative répond au besoin exprimé dans le cahier des charges y compris dans sa dimension contractuelle : 
+  - la modélisation de l’application est conforme aux besoins ;
+  - la maquette des éléments applicatifs de la solution respecte les fonctionnalités exprimées ;
+  - les spécifications de l’interface utilisateur répondent aux contraintes ergonomiques.",jcheron,"Compétence,Bloc2,SLAM,Compétences"
+[C 2.1.(4.5.6.7)] Développement,"### :star: Compétences
+- [ ] Exploitation des ressources du cadre applicatif (framework)
+- [ ] Identification, développement, utilisation ou adaptation de composants logiciels
+- [ ] Exploitation des technologies Web et mobile pour mettre en œuvre les échanges entre 
+applications
+- [ ] Utilisation de composants d’accès aux données
+### :rocket: Indicateurs de performance
+- Le choix des composants logiciels à utiliser et/ou à développer est pertinent.
+- Un service Web est exploité pour échanger des données entre applications.
+- Les données persistantes liées à la solution applicative sont exploitées à travers un langage de requête lié à la base de données qui peut être le langage de requête proposé par les échanges applicatifs des technologies Web, un langage de requête présent dans l’outil de correspondance objet-relationnel ou toute autre solution de persistance.",jcheron,"Compétence,Bloc2,SLAM,Compétences"
+"[C 2.1.(8.9.11)] Tests, intégration continue","### :star: Compétences
+- [ ] Réalisation des tests nécessaires à la validation ou à la mise en production d’éléments adaptés ou développés
+- [ ] Exploitation des fonctionnalités d’un environnement de développement et de tests
+- [ ] Intégration continue des versions d’une solution applicative
+### :rocket: Indicateurs de performance
+- La solution est développée dans les règles de l’art :
+  - le développement répond à l’expression des besoins fonctionnels et respecte les contraintes techniques figurant dans le cahier des charges ;
+  - les composants logiciels sont validés par les procédures de tests unitaires et fonctionnels.
+  - les tests d’intégration sont réalisés ;
+  - un outil collaboratif de gestion des itérations de développement et de versions est utilisé ;
+  - le développement tient compte des préoccupations de développement durable.
+- L’application développée est opérationnelle conformément au cahier des charges et stable dans l’environnement de production.
+",jcheron,"Compétence,Bloc2,SLAM,Compétences"
+[C 2.1.10] Conception de documentation,"Rédaction des documentations technique et d’utilisation d’une solution applicative
+### :rocket: Indicateurs de performance
+- Une documentation des versions vient appuyer l’intégration continue ;
+- Les composants logiciels sont documentés de manière à être réutilisés ;
+- Un document est rédigé pour chaque contexte d’utilisation de l’application et est adapté à chaque destinataire tant par son contenu que par sa présentation ;",jcheron,"Compétence,Bloc2"
+[A 2.2] Maintenance corrective ou évolutive d’une solution applicative,"### :star: Compétences
+- [ ] Évaluation de la qualité d’une solution applicative
+- [ ] Recueil, analyse et mise à jour d'informations sur une version d’une solution applicative
+- [ ] Analyse et correction d’un dysfonctionnement
+- [ ] Mise à jour de documentations technique et d’utilisation d’une solution applicative
+- [ ] Élaboration et réalisation de tests des éléments mis à jour
+### :rocket: Indicateurs de performance
+- L’évolution de la solution applicative répond aux besoins exprimés dans le cahier des charges.
+- La modélisation de l’application existante est mise à jour par les nouvelles fonctionnalités et/ou les nouveaux correctifs apportés.
+- L’interface utilisateur est mise à jour en respectant les contraintes ergonomiques.
+- Un outil collaboratif de gestion des versions est utilisé.
+- Des composants logiciels sont adaptés pour améliorer la qualité de la solution applicative.
+- Les composants logiciels adaptés et/ou corrigés sont validés par les procédures de tests unitaires et fonctionnels.
+- Le dysfonctionnement de la solution existante est corrigé selon les procédures en vigueur et dans les délais.
+- Les accès aux données persistantes à travers le langage de requête du système de gestion de base de données relationnel, le langage de requête proposé par les échanges applicatifs des technologies Web, le langage de requête de l’outil de correspondance objet-relationnel ou toute autre solution de persistance sont mis à jour.
+- Les tests de non régression sont réalisés.
+- Les composants logiciels sont documentés de manière à être réutilisés.
+- La documentation technique et d’utilisateurs de la solution applicative sont mises à jour.
+- L’application améliorée et/ou corrigée est opérationnelle et stable dans l’environnement de production.",jcheron,"Activité,Bloc2,SLAM,Compétences"
+[A 2.3] Gestion des données,"### :star: Compétences
+- [ ] Exploitation de données à l’aide d’un langage de requêtes
+- [ ] Développement de fonctionnalités applicatives au sein d’un SGBD
+- [ ] Conception ou adaptation d’une base de données
+- [ ] Administration et déploiement d’une base de données
+### :rocket: Indicateurs de performance
+- L’exploitation des données permet de construire l’information attendue.
+- Les accès aux données sont contrôlés conformément aux habilitations définies par le cahier des charges.
+- Les traitements pris en charge par les composants développés dans la base de données sont conformes aux demandes du cahier des charges.
+- Les données sont modélisées conformément au besoin de la solution applicative.
+- Le choix du type de base de données est pertinent.
+- L’accessibilité des données est conforme à la qualité de service attendue.
+- La base de données est sauvegardée selon la planification retenue.
+- Des tests de restauration sont effectués.
+- La base de données est opérationnelle et stable dans l’environnement de production.",jcheron,"Activité,Bloc2,SLAM,Compétences"
+[A 3.1] Protéger les données à caractère personnel,"### :star: Compétences
+- [ ] Recenser les traitements sur les données à caractère personnel au sein de l’organisation
+- [ ] Identifier les risques liés à la collecte, au traitement, au stockage et à la diffusion des données à caractère personnel
+- [ ] Appliquer la réglementation en matière de collecte, de traitement et de conservation des données à caractère personnel
+- [ ] Sensibiliser les utilisateurs à la protection des données à caractère personnel
+### :rocket: Indicateurs de performance
+- La collecte, le traitement et la conservation des données à caractère personnel sont effectués conformément à la réglementation en vigueur.
+- La charte informatique contient des dispositions destinées à protéger les données à caractère personnel.
+- Des supports de communication pertinents sont accessibles et adaptés aux utilisateurs.
+- Le recensement des traitements des données à caractère personnel est exhaustif.
+- Des moyens de protection sont mis en place pour garantir la confidentialité et l’intégrité des données à caractère personnel en tenant compte des risques identifiés.",jcheron,"Activité,Bloc3,Compétences"
+"[A 3.2] Préserver l'identité numérique de l’organisation","### :star: Compétences
+- [ ] Informer les utilisateurs sur les risques associés à l’utilisation d’une ressource numérique et promouvoir les bons usages à adopter
+- [ ] Identifier les menaces et mettre en œuvre les défenses appropriées
+- [ ] Gérer les accès et les privilèges appropriés
+- [ ] Vérifier l’efficacité de la protection
+### :rocket: Indicateurs de performance
+- L’identité numérique de l’organisation est protégée en s’appuyant sur des moyens techniques et juridiques.
+- La preuve électronique est déployée de manière sécurisée et dans le respect de la législation.",jcheron,"Activité,Bloc3,Compétences"
+"[A 3.3] Garantir la disponibilité, l’intégrité et la confidentialité face à des cyberattaques","## Garantir la disponibilité, l’intégrité et la confidentialité des services informatiques et des données de l’organisation face à des cyberattaques
+### :star: Compétences
+- [ ] Caractériser les risques liés à l’utilisation malveillante d’un service informatique
+- [ ] Recenser les conséquences d’une perte de disponibilité, d’intégrité ou de confidentialité
+- [ ] Identifier les obligations légales qui s’imposent en matière d’archivage et de protection des données de l’organisation
+- [ ] Organiser la collecte et la conservation des preuves numériques
+- [ ] Appliquer les procédures garantissant le respect des obligations légales
+### :rocket: Indicateurs de performance
+- Des supports de communication interne sont accessibles aux utilisateurs et adaptés à leurs destinataires.
+- Les outils de défense mis en œuvre permettent de prévenir les menaces identifiées :
+  - l’accès physique au terminal et à ses données est sécurisé ;
+  - les applications installées sont vérifiées par des procédures automatisées et des logiciels de sécurité ;
+  - les flux réseaux sont identifiés et sécurisés.
+- Les accès et privilèges respectent les règles organisationnelles :
+  - les utilisateurs sont authentifiés ;
+  - les habilitations sont configurées ;
+  - l’accès aux données est contrôlé ;
+  - les privilèges sont restreints.
+- L’efficacité de la protection mise en œuvre est évaluée.",jcheron,"Activité,Bloc3,Compétences"
+[A 3.4] Assurer la cybersécurité d’une solution applicative et de son développement,"- Mise en œuvre de la politique de sécurité de l'organisation en prenant en compte les enjeux éthiques et déontologiques.
+- Contribution à la protection des données de l’organisation, à la sensibilisation des utilisateurs aux usages et à la sécurisation de leurs accès aux services informatiques. 
+- Application des procédures d’exploitation de sécurité, soutien aux opérations d’audit et de contrôle.
+- Application des recommandations de sécurité dans le développement d’une application informatique.
+- Détection, investigation et réponse aux incidents de sécurité.",jcheron,"Activité,Bloc3,SLAM"
+[C 3.4.(1.2.3.4)] Anticiper les risques,"### :star: Compétences
+- [ ] Participer à la vérification des éléments contribuant à la qualité d’un développement informatique
+- [ ] Prendre en compte la sécurité dans un projet de développement d’une solution applicative
+- [ ] Mettre en œuvre et vérifier la conformité d’une solution applicative et de son développement à un référentiel, une norme ou un standard de sécurité
+- [ ] Prévenir les attaques
+### :rocket: Indicateurs de performance
+- Les risques associés à l’utilisation malveillante d’un service informatique sont caractérisés.
+- Les conséquences des actes malveillants sur un service informatique sont identifiées.
+- Les obligations légales en matière d’archivage et de protection des données sont identifiées et respectées.
+- Les preuves numériques sont conservées de manière sécurisée et dans le respect de la législation.
+- Des procédures garantissant le respect des obligations légales sont opérationnelles et appliquées :
+  - un schéma présentant la segmentation du réseau est disponible ;
+  - les principes de mise en œuvre des contrôles des connexions aux réseaux sont validés ;
+  - l'authentification et la confidentialité des échanges sont vérifiées ;
+  - la sécurité de l'administration est prise en compte ;
+  - les accès physiques et logiques à un serveur ou à un service sont vérifiés en fonction des habilitations et des privilèges définis ;
+  - les accès aux données sont contrôlés à chaque étape d’une transaction ;
+  - les systèmes et les applications sont actualisés en fonction des alertes de sécurité ;
+  - les vulnérabilités connues sont contrôlées.
+",jcheron,"Compétence,Bloc3,SLAM,Compétences"
+[C 3.4.(5.6)] Analyser les incidents et réagir,"### :star: Compétences
+- [ ] Analyser les connexions (logs)
+- [ ] Analyser des incidents de sécurité, proposer et mettre en œuvre des contre-mesures
+### :rocket: Indicateurs de performance
+- Le respect des bonnes pratiques de développement informatique est vérifié (les structures de données sont normalisées, les accès aux données sont optimisés, le code est modulaire et robuste, les tests sont effectués).
+- Les préoccupations de sécurité sont prises en compte à toutes les étapes d’un développement informatique.
+- Les bonnes pratiques de sécurité sont mises en œuvre à toutes les étapes d’un développement informatique.
+- Des tests de sécurité sont prévus et mis en œuvre.
+- Les traitements sur les données à caractère personnel sont déclarés et respectent la réglementation.
+- Le système d’authentification est conforme aux règles de sécurité.
+- L’accès aux données respecte les règles de sécurité.
+- Les échanges de données entre applications sont protégés.
+- Les composants utilisés sont certifiés, sécurisés et actualisés.
+- Les contre-mesures mises en place corrigent et préviennent les incidents de sécurité.
+- Les contre-mesures sont documentées de manière à en assurer le suivi.
+- La communication écrite et orale est adaptée à l’interlocuteur.",jcheron,"Compétence,Bloc3,SLAM,Compétences"
