@@ -1,9 +1,15 @@
 # sio-skills
 Suivi des compétences à évaluer en BTS Services Informatiques aux Organisations (SIO)
 
+## Rôle
+
+Ce repository vous permet :
+- de créer un pool de ressources relatif à l'acquisition de vos compétences.
+- de solliciter vos évaluateurs pour validation.
+
 ## Installation
 - Faire un fork de ce repository sur votre compte github
-- Ajouter votre enseignant à la liste des collaborateurs du projet. 
+- Ajouter votre enseignant à la liste des collaborateurs du projet forké. 
 - Importer les issues (Activités et compétences) à partir du fichier csv
   - Installer globalement githubCsvTool
 ```bash
@@ -28,12 +34,12 @@ githubCsvTools myProjectData.csv
   - documentation des réalisations, manipulations, mises en oeuvre.
   - documents produits (documents d'analyse, plan de tests, documentation...).
 - Publier ces documents vers une branche spécifique, dans le dossier myDocuments
-- Ajouter éventuellement un fichier README si vous ajoutez dans chacun des nouveaux dossiers.  
+- Ajouter éventuellement un fichier README si vous ajoutez des fichiers, dans chacun des nouveaux dossiers.  
 - Faire une Pull request et solliciter une review de votre enseignant pour validation.
 
 Si la compétence ne requiert aucun document (mais uniquement des liens) :
 - Mettre un commentaire sur l'issue.
-- Faire un ping à votre enseignant dans l'issue concernée.
+- Faire un ping à votre enseignant (@jcheron) dans l'issue concernée.
   
 
 
