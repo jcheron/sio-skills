@@ -49,7 +49,7 @@ Si la compétence ne requiert aucun document (mais uniquement des liens) :
 
 ### Rythme
 - Solliciter 1 à 2 validations par mois au minimum.
-- L'objectif est de couvrir l'ensemble des compétences (19 issues) sur la 2ème année de formation.
+- L'objectif est de couvrir l'ensemble des compétences (19 issues) sur la 2ᵉ année de formation.
 - Certaines compétences peuvent ne pas être soumises à validation (c'est votre choix).
   
 
