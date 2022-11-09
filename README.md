@@ -1,4 +1,7 @@
-# sio-skills
+# SIO-skills
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+[![issues - sio-skills](https://img.shields.io/github/issues/jcheron/sio-skills)](https://github.com/jcheron/sio-skills/issues)
+
 Suivi des compétences en BTS Services Informatiques aux Organisations (SIO)
 
 ## Rôle
