@@ -1,4 +1,5 @@
 # SIO-skills
+[![GitHub tag](https://img.shields.io/github/tag/jcheron/sio-skills?include_prereleases=&sort=semver&color=blue)](https://github.com/jcheron/sio-skills/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 [![issues - sio-skills](https://img.shields.io/github/issues/jcheron/sio-skills)](https://github.com/jcheron/sio-skills/issues)
 
