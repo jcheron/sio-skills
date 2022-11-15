@@ -15,7 +15,7 @@ Ce repository vous permet :
 - Faire un [fork de ce repository](https://github.com/jcheron/sio-skills/fork) sur votre compte github.
 - Ajouter votre enseignant à la liste des collaborateurs du projet forké. 
 - Activer les `issues` dans les settings du repository.
-- Importer les issues (Activités et compétences) à partir du fichier [issues-import.csv](blob/main/src/issues-import.csv)
+- Importer les issues (Activités et compétences) à partir du fichier [issues-import.csv](src/issues-import.csv)
   - Installer globalement githubCsvTool
 ```bash
 npm install -g github-csv-tools
