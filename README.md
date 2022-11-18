@@ -15,7 +15,7 @@ Ce repository vous permet :
 - Faire un [fork de ce repository](https://github.com/jcheron/sio-skills/fork) sur votre compte github.
 - Ajouter votre enseignant à la liste des collaborateurs du projet forké. 
 - Activer les `issues` dans les settings du repository.
-- Importer les issues (Activités et compétences) à partir du fichier [issues-import.csv](blob/main/src/issues-import.csv)
+- Importer les issues (Activités et compétences) à partir du fichier [issues-import.csv](src/issues-import.csv)
   - Installer globalement githubCsvTool
 ```bash
 npm install -g github-csv-tools
@@ -49,8 +49,18 @@ Si la compétence ne requiert aucun document (mais uniquement des liens) :
 
 ### Rythme
 - Solliciter 1 à 2 validations par mois au minimum.
-- L'objectif est de couvrir l'ensemble des compétences (19 issues) sur la 2ème année de formation.
+- L'objectif est de couvrir l'ensemble des compétences (19 issues) sur la 2ᵉ année de formation.
 - Certaines compétences peuvent ne pas être soumises à validation (c'est votre choix).
+
+### Validations soumises
+Si vous êtes cités, vous devez faire une demande de validation avant la date indiquée (Validation de compétences avec PR)
+#### 20 novembre 2022
+- [@KilianL55](https://github.com/KilianL55)
+- [@Xeltax](https://github.com/Xeltax)
+- [@Sabrrii](https://github.com/Sabrrii)
+- [@PaulG0](https://github.com/PaulG0)
+- [@Comcombre](https://github.com/Comcombre)
+  
   
 
 
