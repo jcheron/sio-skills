@@ -41,7 +41,11 @@ githubCsvTools issues-import.csv
   - documents produits (documents d'analyse, plan de tests, documentation...).
 - Publier ces documents vers une branche spécifique, dans le dossier myDocuments
 - Ajouter éventuellement un fichier README si vous ajoutez des fichiers, dans chacun des nouveaux dossiers.  
-- Faire une Pull request et solliciter une review de votre enseignant pour validation.
+- Faire une Pull request vers votre propre repository et solliciter une review de votre enseignant pour validation.
+
+> :no_entry_sign: **Attention**
+> - Ne pas créer de **pdf**, mais des fichiers **md** => qui donnent la possibilité de faire la revue
+> - Ne pas faire de liens vers Google drive, mais dépôser les documents dans un sous dossier du repository
 
 Si la compétence ne requiert aucun document (mais uniquement des liens) :
 - Mettre un commentaire sur l'issue.
