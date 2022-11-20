@@ -48,7 +48,7 @@ githubCsvTools issues-import.csv
 > - Ne pas faire de liens vers Google drive, mais dépôser les documents dans un sous dossier du repository
 
 Si la compétence ne requiert aucun document (mais uniquement des liens) :
-- Mettre un commentaire sur l'issue.
+- Ajouter quand-même un fichier README.md (ou autre) justifiant de sa mise en oeuvre.
 - Faire un ping à votre enseignant (@jcheron) dans l'issue concernée.
 
 ### Rythme
