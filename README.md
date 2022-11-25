@@ -41,10 +41,14 @@ githubCsvTools issues-import.csv
   - documents produits (documents d'analyse, plan de tests, documentation...).
 - Publier ces documents vers une branche spécifique, dans le dossier myDocuments
 - Ajouter éventuellement un fichier README si vous ajoutez des fichiers, dans chacun des nouveaux dossiers.  
-- Faire une Pull request et solliciter une review de votre enseignant pour validation.
+- Faire une Pull request vers votre propre repository et solliciter une review de votre enseignant pour validation.
+
+> :no_entry_sign: **Attention**
+> - Ne pas créer de **pdf**, mais des fichiers **md** => qui donnent la possibilité de faire la revue
+> - Ne pas faire de liens vers Google drive, mais dépôser les documents dans un sous dossier du repository
 
 Si la compétence ne requiert aucun document (mais uniquement des liens) :
-- Mettre un commentaire sur l'issue.
+- Ajouter quand-même un fichier README.md (ou autre) justifiant de sa mise en oeuvre.
 - Faire un ping à votre enseignant (@jcheron) dans l'issue concernée.
 
 ### Rythme
@@ -54,13 +58,15 @@ Si la compétence ne requiert aucun document (mais uniquement des liens) :
 
 ### Validations soumises
 Si vous êtes cités, vous devez faire une demande de validation avant la date indiquée (Validation de compétences avec PR)
-#### 20 novembre 2022
-- [@KilianL55](https://github.com/KilianL55)
-- [@Xeltax](https://github.com/Xeltax)
-- [@Sabrrii](https://github.com/Sabrrii)
-- [@PaulG0](https://github.com/PaulG0)
-- [@Comcombre](https://github.com/Comcombre)
+
+#### 27 novembre 2022
+- [@Louka](https://github.com/Louka-Fauvel)
+- [@Twiline](https://github.com/Twitline)
+- [@Lhans22](https://github.com/Lhans22)
+- [@LucaGiab714](https://github.com/LucaGiab714)
+- [@Lorvaill](https://github.com/Lorvaill)
   
-  
+#### Archives
+- [2023](doc/validations/validations-2023.md)
 
 
