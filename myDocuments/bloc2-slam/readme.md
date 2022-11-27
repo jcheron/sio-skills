@@ -9,8 +9,8 @@ Les principaux objectifs sont :
 Pour ça j'ai donc crée différentes classes java spécialisé tel que des controlleurs, des repository, modèles, ...
 
 
-
-![Ici organisé dans un package tout les models nécessaire à la création du projet](https://user-images.githubusercontent.com/96297088/204144765-1f6d036d-4eb0-410c-92bb-6a6732846411.JPG)
+Ici organisé dans un package tout les models nécessaire à la création du projet
+![Capture](https://user-images.githubusercontent.com/96297088/204144765-1f6d036d-4eb0-410c-92bb-6a6732846411.JPG)
 
 
 Exemple de code dans le controller de "cours" afin de permettre la création de ces derniers :
