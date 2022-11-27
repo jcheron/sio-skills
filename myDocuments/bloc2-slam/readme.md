@@ -8,9 +8,15 @@ Les principaux objectifs sont :
 
 Pour ça j'ai donc crée différentes classes java spécialisé tel que des controlleurs, des repository, modèles, ...
 
+
+
+![Ici organisé dans un package tout les models nécessaire à la création du projet](https://user-images.githubusercontent.com/96297088/204144765-1f6d036d-4eb0-410c-92bb-6a6732846411.JPG)
+
+
 Exemple de code dans le controller de "cours" afin de permettre la création de ces derniers :
 
-'''@GetMapping("newCours")
+```
+@GetMapping("newCours")
 	public String newCours(ModelMap model, @AuthenticationPrincipal Parent authUser) {
 		model.addAttribute("cours", new Cours());
 		model.addAttribute("type_cours", typecours.findAll());
@@ -19,5 +25,12 @@ Exemple de code dans le controller de "cours" afin de permettre la création de 
 		return "cours/formNewCours";
 	}
 	
-'''
+	
+@PostMapping("newCours")
+	public RedirectView newSubmitCours(@ModelAttribute Cours cours, @ModelAttribute TypeCours typecours) {
+	courRepo.save(cours);
+	return new RedirectView("/listCours");
+}
+
+```
 
