@@ -8,9 +8,9 @@ Les principaux objectifs sont :
 
 Pour ça j'ai donc crée différentes classes java spécialisé tel que des controlleurs, des repository, modèles, ...
 
-#####Exemple de code dans le controller de "cours" afin de permettre la création de ces derniers :
+Exemple de code dans le controller de "cours" afin de permettre la création de ces derniers :
 
-@GetMapping("newCours")
+'''@GetMapping("newCours")
 	public String newCours(ModelMap model, @AuthenticationPrincipal Parent authUser) {
 		model.addAttribute("cours", new Cours());
 		model.addAttribute("type_cours", typecours.findAll());
@@ -18,4 +18,6 @@ Pour ça j'ai donc crée différentes classes java spécialisé tel que des cont
 		model.put("userCo", authUser);
 		return "cours/formNewCours";
 	}
+	
+'''
 
