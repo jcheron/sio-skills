@@ -10,6 +10,7 @@ Pour ça j'ai donc crée différentes classes java spécialisé tel que des cont
 
 
 Ici organisé dans un package tout les models nécessaire à la création du projet
+<br>
 ![Capture](https://user-images.githubusercontent.com/96297088/204144765-1f6d036d-4eb0-410c-92bb-6a6732846411.JPG)
 
 
